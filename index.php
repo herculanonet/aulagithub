@@ -39,7 +39,7 @@
                 <h4 class="text-h4">Welcome FooD PeeK</h4>
                 <h1 class="text-h1">Different spice for different tastes</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod error veniam in voluptatem magni quisquam</p>
-                <a href="#" class="home-btn">Order yours</a>
+                <a href="#" class="home-btn">Leia Mais...</a>
             </div>
             <div class="home-img">
                 <img src="img/home.png" alt="hamburguer">
